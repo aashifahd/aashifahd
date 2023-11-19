@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashif Ahd</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Laravel, TailwindsCss and React**
+- 🌱 I’m currently learning **Laravel, TailwindCss and React**
 
 - 👨‍💻 All of my projects are available at [https://aashifahd.com/portfolio/](https://aashifahd.com/portfolio/)
 
