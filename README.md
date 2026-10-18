@@ -1,6 +1,6 @@
 ## Hi, I'm Aashif
 
-Full-stack developer from Sri Lanka. I run [CenoDigital](https://cenodigital.com), where we build web apps for clients, and I build my own products in between.
+Full-stack developer from Sri Lanka, based in the UK. I run [CenoDigital](https://cenodigital.com), where we build web apps for clients, and I build my own products in between.
 
 <br/>
 
