@@ -97,8 +97,8 @@ I run **[CenoDigital](https://cenodigital.com)**, where I design and build produ
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashifahd/aashifahd/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/aashifahd/aashifahd/output/snake-light.svg" width="100%" alt="Contribution graph being eaten by a snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashifahd/aashifahd/refs/heads/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aashifahd/aashifahd/refs/heads/output/snake-light.svg" width="100%" alt="Contribution graph being eaten by a snake" />
 </picture>
 
 </div>
