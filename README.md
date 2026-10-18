@@ -31,7 +31,7 @@ aashif=> select * from stack;
 ```
 
 ```sql
-aashif=> q
+aashif=> \q
 -- most of my commits are in client repos you can't see. sorry, contribution graph.
 ```
 
