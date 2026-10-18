@@ -1,76 +1,137 @@
-<h1 align="center">Hey there 👋, I'm Aashif Ahd</h1>
-<h3 align="center">Creative Web Developer & Designer from Sri Lanka 🇱🇰</h3>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Aashif%20Ahamed&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20developer%20%E2%80%A2%20Founder%20of%20CenoDigital&descAlignY=58&descSize=16" alt="Aashif Ahamed" />
+</p>
 
 <p align="center">
-  🚀 Building modern websites with <strong>Laravel</strong>, <strong>React</strong> & <strong>TailwindCSS</strong><br>
-  🎨 Passionate about UI/UX & clean code<br>
-  📍 Currently based in Leicester, UK
+  <a href="https://aashifahd.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=620&lines=I+build+SaaS+products%2C+AI+agents+and+dev+tools;Laravel+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+Electron;Shipping+from+idea+to+production+on+my+own+infra" alt="Typing intro" /></a>
 </p>
-
----
-
-### 🚧 Currently Learning
-- Laravel + Sanctum + API-first development
-- React (App Router, Server Actions)
-- TailwindCSS + ShadCN UI
-
----
-
-### 🔗 Portfolio & Resume
-- 🌐 Portfolio: [aashifahd.com/portfolio](https://aashifahd.com/portfolio/)
-- 📄 Resume: [aashifahd.com/resume](https://aashifahd.com/resume/)
-- 📫 Email: [hello@aashifahd.com](mailto:hello@aashifahd.com)
-
----
-
-### 📱 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/aashifahd" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" /></a>
-  <a href="https://linkedin.com/in/aashifahd" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /></a>
-  <a href="https://instagram.com/aashifahd" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" /></a>
-  <a href="https://www.behance.net/aashifahd" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="30" /></a>
-  <a href="https://www.youtube.com/c/aashifahd" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="30" /></a>
-  <a href="https://www.leetcode.com/aashifahd" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" /></a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" />
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashifahd&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashifahd&theme=radical" width="45%"/>
+  <a href="https://aashifahd.com"><img src="https://img.shields.io/badge/Website-aashifahd.com-0f172a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://cenodigital.com"><img src="https://img.shields.io/badge/Studio-CenoDigital-2563eb?style=flat-square&logo=buffer&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aashifahd"><img src="https://img.shields.io/badge/LinkedIn-aashifahd-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/aashifahd"><img src="https://img.shields.io/badge/X-@aashifahd-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="mailto:hello@aashifahd.com"><img src="https://img.shields.io/badge/Email-hello@aashifahd.com-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### ⚡ Fun Facts
-- I started with WordPress but now I’m deep into full-stack dev 🚀
-- I love designing clean, minimal UIs 🎨
-- I enjoy helping others and sharing knowledge 📚
+### 👋 About me
+
+```ts
+const aashif = {
+  location:  "Sri Lanka 🇱🇰",
+  role:      "Full-stack developer & founder @ CenoDigital",
+  building:  ["SaaS platforms", "multi-agent AI systems", "desktop dev tools"],
+  stack:     ["TypeScript", "PHP", "Python"],
+  shipping:  "Docker + Coolify on my own servers",
+  openTo:    ["freelance projects", "SaaS collaborations", "open source"],
+};
+```
+
+- 🧩 Turning business problems into products: client portals, CMSs, ERPs, booking and import platforms
+- 🤖 Building AI features that are actually useful: RAG chatbots, LangGraph agent pipelines, bring-your-own-key assistants
+- 🛠️ Open sourcing the tools I wish I had
 
 ---
 
-_Thank you for stopping by! ⭐ Let's connect and create something amazing._
+### 🚀 Featured work
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ <a href="https://github.com/aashifahd/devplus">DevPlus</a></h4>
+      <p>Open source desktop client for SQL and NoSQL databases. 12 engines (Postgres, MySQL, SQLite, SQL Server, MongoDB, Redis, ClickHouse, DuckDB and more), safe inline editing, Monaco query editor, ER diagrams and an AI assistant with your own key.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/github/v/release/aashifahd/devplus?style=flat-square&color=2563eb" />
+        <img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/aashifahd/agencyos">AgencyOS</a></h4>
+      <p>Multi-agent AI system for digital agencies. Eight LangGraph agents take a lead from intake and qualification through to a QA-checked proposal, with a live agent timeline dashboard and a provider-agnostic LLM layer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💬 BizChat AI</h4>
+      <p>Multi-tenant RAG chatbot SaaS for businesses. Hybrid vector + keyword search with reranking, streaming answers, an embeddable 15 KB widget, webhooks and plugins for WordPress, Next.js and Laravel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📍 LeadScout</h4>
+      <p>Desktop lead generation and sales tool. Finds businesses on Google Maps, audits their websites, discovers social profiles, scores opportunities and drafts outreach, all stored locally.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,astro,tailwind&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,fastapi,electron,postgres,mysql,mongodb,redis&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,githubactions,figma&perline=8" />
+</p>
+
+<details>
+<summary><b>Full toolbox</b></summary>
+<br/>
+
+| Area | Tools |
+| --- | --- |
+| **Frontend** | React, Next.js (App Router), Astro, Tailwind CSS, shadcn/ui, Preact |
+| **Backend** | Laravel, FastAPI, Node.js, Payload CMS, Better Auth, Celery |
+| **AI** | LangChain, LangGraph, RAG, Qdrant, OpenAI, Claude, Ollama |
+| **Data** | PostgreSQL, MySQL, SQLite, MongoDB, Redis |
+| **Desktop** | Electron, pywebview, Playwright |
+| **DevOps** | Docker, Coolify, Cloudflare, GitHub Actions, electron-builder |
+| **Design** | Figma, Photoshop, Illustrator |
+
+</details>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aashifahd&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashifahd&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aashifahd&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Let's work together
+
+I take on web apps, SaaS builds, AI integrations and automation for businesses. Reach me at **[hello@aashifahd.com](mailto:hello@aashifahd.com)** or through **[cenodigital.com](https://cenodigital.com)**.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aashifahd&style=flat-square&color=2563eb&label=Profile+views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
+</p>
