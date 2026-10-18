@@ -1,18 +1,38 @@
-### hey, I'm Aashif
+```sql
+-- Aashif Ahamed. Full-stack dev, Sri Lanka.
+-- I run cenodigital.com and build my own stuff in between client work.
 
-Full-stack dev from Sri Lanka. I run [CenoDigital](https://cenodigital.com), a small studio where we build web apps for clients, and I work on my own products in between.
+aashif=> select name, what, stack, repo from projects order by started desc;
+```
+```
+    name    |                what                 |        stack         |  repo
+------------+-------------------------------------+----------------------+---------
+ devplus    | database GUI, 12 engines            | electron, react, ts  | public
+ leadscout  | google maps leads + website audits  | python, playwright   | private
+ bizchat    | multi-tenant RAG chatbot            | fastapi, qdrant      | private
+ agencyos   | langgraph agents: lead -> proposal  | python, next.js      | public
+(4 rows)
+```
 
-Mostly TypeScript, PHP and Python. Laravel or Next.js for most things, FastAPI when there's LLM stuff involved. I self-host pretty much everything on Docker + Coolify.
+[**devplus**](https://github.com/aashifahd/devplus) is the one I'm putting most time into right now. I wanted a TablePlus-style client I could actually open up and change, so I wrote one. Postgres, MySQL, SQLite, SQL Server, Mongo, Redis, ClickHouse, DuckDB and a few more. GPL, installers on the [releases page](https://github.com/aashifahd/devplus/releases).
 
-**Things I've been building**
+<a href="https://github.com/aashifahd/devplus"><img src="https://raw.githubusercontent.com/aashifahd/devplus/main/docs/screenshots/table.png" width="760" alt="DevPlus table view" /></a>
 
-- [devplus](https://github.com/aashifahd/devplus): open source database GUI (Electron + React). Postgres, MySQL, SQLite, Mongo, Redis, ClickHouse and a few more. Started it because I wanted a TablePlus-style client I could hack on.
-- [agencyos](https://github.com/aashifahd/agencyos): LangGraph agents that turn an incoming lead into a draft proposal. Started as my dissertation project.
-- BizChat AI: multi-tenant RAG chatbot for businesses. FastAPI, Qdrant, Next.js. Private for now.
-- LeadScout: desktop app that pulls businesses from Google Maps and checks their websites. Python + Playwright. Also private.
+[**agencyos**](https://github.com/aashifahd/agencyos) started as my dissertation: can a team of small agents write a better proposal than one big prompt? It ships with the eval harness I used to compare them.
 
-Plus a lot of client work that lives in private repos: CMSs, booking systems, an ERP, a vehicle import platform.
+```sql
+aashif=> select * from stack;
+```
+```
+ daily     | typescript, php, python, laravel, next.js, react, tailwind
+ data      | postgres, mysql, redis, qdrant
+ infra     | docker, coolify, cloudflare, github actions
+ sometimes | fastapi, electron, astro, payload
+```
 
-**Usually reach for:** Laravel, Next.js, React, Tailwind, FastAPI, Postgres, MySQL, Redis, Docker
+```sql
+aashif=> q
+-- most of my commits are in client repos you can't see. sorry, contribution graph.
+```
 
-**Elsewhere:** [aashifahd.com](https://aashifahd.com) · [LinkedIn](https://linkedin.com/in/aashifahd) · [X](https://twitter.com/aashifahd) · hello@aashifahd.com
+[aashifahd.com](https://aashifahd.com) · [linkedin](https://linkedin.com/in/aashifahd) · [x](https://twitter.com/aashifahd) · hello@aashifahd.com
