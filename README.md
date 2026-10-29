@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img src="assets/header-light.svg" width="100%" alt="Ashif Ahamad. Full-stack developer, Sri Lanka to UK, CenoDigital" />
+  <img src="assets/header-light.svg" width="100%" alt="Ashif Ahamad. Full-stack developer, Based in UK, CenoDigital" />
 </picture>
 
 I'm from Sri Lanka, now based in the UK. I run [CenoDigital](https://cenodigital.com), where we build web apps for clients, and I build my own products in between.
